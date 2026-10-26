@@ -1,0 +1,6 @@
+anthropic
+pypdf
+scikit-learn
+numpy
+fpdf2
+jupyter
